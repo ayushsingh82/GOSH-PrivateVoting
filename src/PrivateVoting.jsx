@@ -155,7 +155,7 @@ function PrivateVoting() {
     <div className="mt-5 ">
       <div className="flex flex-col text-center justify-center items-center mb-10 mt-10">
        
-        <h1 className="my-10 text-2xl font-bold text-black">Private Voting for AVS</h1>
+        <h1 className="my-10 text-2xl font-bold text-black">Private Voting Dao for GOSH Proposals</h1>
       
       </div>
       <div className="flex flex-col md:flex-row">
@@ -267,15 +267,6 @@ function PrivateVoting() {
             signing an EIP-712 signature.
           </div>
           <img src={"/CodePrivateVoting3.svg"} alt="CodePrivateVoting3" />
-          <div>
-            Smart Contract Implementation:{" "}
-            <a
-              target="_blank" rel="noreferrer"
-              href="https://docs.inco.org/getting-started/example-dapps/private-voting"
-            >
-              Here
-            </a>
-          </div>
         </div>
       </div>
     </div>
